@@ -1,0 +1,4 @@
+*.xml
+.git/*
+.idea/*
+node_modules/*
